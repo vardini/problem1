@@ -14,6 +14,6 @@ public class UserOb {
 	@Override
 	public String toString() {
 		// TODO Auto-generated method stub
-		return "in - "+inTime +" outTime - "+outTime;
+		return "inTime - "+inTime +" outTime - "+outTime;
 	}
 }
