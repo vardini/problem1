@@ -40,11 +40,10 @@ public class MainClass {
 
 		users.add(new UserOb(100023, 1, 4));
 		users.add(new UserOb(100024, 2, 5));
-		users.add(new UserOb(100023, 1, 8));
-		users.add(new UserOb(100023, 4, 2));
+		users.add(new UserOb(100023, 3, 8));
+		users.add(new UserOb(100023, 1, 2));
 
 		return users;
-		// TODO Auto-generated method stub
 
 	}
 }
