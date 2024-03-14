@@ -38,10 +38,10 @@ public class MainClass {
 
 		List<UserOb> users = new ArrayList<UserOb>();
 
-		users.add(new UserOb(23, 1, 4));
-		users.add(new UserOb(24, 2, 5));
-		users.add(new UserOb(23, 1, 8));
-		users.add(new UserOb(23, 4, 2));
+		users.add(new UserOb(100023, 1, 4));
+		users.add(new UserOb(100024, 2, 5));
+		users.add(new UserOb(100023, 1, 8));
+		users.add(new UserOb(100023, 4, 2));
 
 		return users;
 		// TODO Auto-generated method stub
